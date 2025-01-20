@@ -1,0 +1,14 @@
+在安装VITIS-AI环境的时候受限于学校网络和虚拟机条件，饱受折磨，现在终于安装完成，需要的朋友请随意使用，虚拟机配置如下
+When installing the VITIS-AI environment, I was limited by the school network and virtual machine conditions.
+I suffered a lot. Now the installation is finally completed. Friends who need it, please feel free to use it. The virtual machine configuration is as follows
+虚拟机版本：Ubuntu24.04LTS
+虚拟机分配磁盘：500G
+实际占用：400G（含过程快照，出现问题可以回档）
+挂载pynq即可进行开发
+VITIS-AI版本：3.5
+VITIS安装目录：opt/VITIS
+已安装Clash，可以替换自己订阅的节点
+用户名：wjl 
+密码：wjl
+user:wjl 
+password:wjl
